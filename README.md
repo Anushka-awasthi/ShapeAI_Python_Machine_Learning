@@ -1,10 +1,10 @@
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP 
-2 Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI
+Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI
 </b>
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br> 
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LE0D6h"> <img src"https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"></a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LE0D6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"></a>
 I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
@@ -17,7 +17,7 @@ or follow SHAPEAL on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a 
 href=
 "https://www.youtube.com/channel/UCTOVOLTW9uXWcbISPA">YouTu
